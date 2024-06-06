@@ -1,1 +1,1 @@
-# Exploring the World DataBase using SQL 
+# 🌍Exploring the World DataBase using SQL 📈
