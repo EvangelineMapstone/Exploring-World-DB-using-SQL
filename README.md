@@ -42,4 +42,4 @@ This project provided a comprehensive understanding of SQL and its capabilities 
 
 
 
-Feel free to explore the SQL scripts and documentation to understand the queries and operations performed in this project!
+Feel free to download the attached World database tasks document, and explore the SQL scripts to understand the queries and operations performed in this project!
